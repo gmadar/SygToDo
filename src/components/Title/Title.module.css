@@ -1,0 +1,8 @@
+.main {
+  font-size: 32px;
+  font-weight: 400;
+  margin: 36px var(--title-x-margin);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}

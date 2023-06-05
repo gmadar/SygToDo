@@ -2,6 +2,13 @@
   --level-high-color: #ffe3e3;
   --level-medium-color: #fff4cc;
   --level-low-color: #e0fdef;
+
+  --dark: #000000;
+
+  --border-radius-normal: 8px;
+
+  --table-x-margin: 36px;
+  --title-x-margin: 66px;
   font-family: Nunito, system-ui, Avenir, Helvetica, Arial, sans-serif;
 }
 

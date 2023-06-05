@@ -1,0 +1,11 @@
+.button {
+  background-color: var(--dark);
+  color: #fff;
+  border-radius: var(--border-radius-normal);
+  border: 0px;
+  line-height: 32px;
+  padding: 0 25px;
+  cursor: pointer;
+  /* fast hack to complete: */
+  margin: 0 26px;
+}
