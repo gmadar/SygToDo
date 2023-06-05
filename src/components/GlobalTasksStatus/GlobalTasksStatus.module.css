@@ -1,0 +1,29 @@
+.main {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end; /* aligns items to the right */
+  margin-right: 47px;
+}
+
+.statusContainer {
+  padding: 0 13px;
+}
+
+.indicator {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  margin-right: 4px;
+}
+
+.high {
+  background-color: var(--level-high-color);
+}
+.medium {
+  background-color: var(--level-medium-color);
+}
+.low {
+  background-color: var(--level-low-color);
+}
